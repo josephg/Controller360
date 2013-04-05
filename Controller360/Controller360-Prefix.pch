@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Controller360' target in the 'Controller360' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
